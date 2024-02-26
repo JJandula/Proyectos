@@ -1,4 +1,4 @@
-Repositirio de Proyectos de la web Codedex en Python
+Repositirio de Proyectos creados para el curso  Legend of Python de Codedex
 
 Proyectos
 
